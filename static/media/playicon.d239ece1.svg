@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient x1="0" y1="0" x2="1" y2="1" id="gradient_1">
+      <stop offset="0" stop-color="#9C09DB" />
+      <stop offset="1" stop-color="#1C0FD7" />
+    </linearGradient>
+    <filter filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB" id="filter_1">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" />
+      <feOffset dx="0" dy="2" />
+      <feGaussianBlur stdDeviation="2" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0.14117648 0 0 0 0 0.03137255 0 0 0 0 0.5019608 0 0 0 0.14901961 0" />
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect0_dropShadow" />
+      <feBlend mode="normal" in="SourceGraphic" in2="effect0_dropShadow" result="shape" />
+    </filter>
+  </defs>
+  <g id="Group-8">
+    <path d="M25 0C25 -2.18557e-06 25 -2.18557e-06 25 -2.18557e-06C26.7266 0.00487754 28.4533 0.000984931 30.1799 0.014637C36.2559 0.0626798 43.9459 0.27472 47.4855 6.13374C48.0506 7.0692 48.4801 8.08186 48.8056 9.12382C49.4866 11.3043 49.7419 13.6017 49.8681 15.8739C50.0369 18.911 49.9914 21.9611 50 25C50 25 50 25 50 25C49.9951 26.7266 49.999 28.4533 49.9854 30.1799C49.9373 36.2559 49.7253 43.9459 43.8663 47.4855C42.9308 48.0506 41.9181 48.4801 40.8762 48.8055C38.6957 49.4866 36.3983 49.7419 34.1261 49.8681C31.0889 50.0369 28.0389 49.9914 25 50C25 50 25 50 25 50C23.2734 49.9951 21.5467 49.999 19.8201 49.9854C13.7441 49.9373 6.05412 49.7253 2.51452 43.8663C1.94938 42.9308 1.5199 41.9181 1.19445 40.8762C0.513381 38.6957 0.258128 36.3983 0.131861 34.1261C-0.0369144 31.0889 0.00858917 28.0389 -1.09278e-06 25C-1.09278e-06 25 -1.09278e-06 25 -1.09278e-06 25C0.00487827 23.2734 0.000985151 21.5467 0.014637 19.8201C0.0626788 13.7441 0.274733 6.05412 6.13374 2.51452C7.06921 1.94938 8.08187 1.5199 9.12383 1.19444C11.3043 0.513375 13.6017 0.258126 15.8739 0.131859C18.9111 -0.0369148 21.9611 0.0085895 25 0Z" id="Rectangle-9" fill="url(#gradient_1)" fill-rule="evenodd" stroke="none" filter="url(#filter_1)" />
+    <g id="play" transform="translate(18 15)">
+      <path d="M10.9316 0.52305L19.8506 15.4016C20.1533 15.9065 19.9815 16.5566 19.467 16.8536C19.3009 16.9494 19.1117 17 18.9189 17L1.08089 17C0.48393 17 0 16.5251 0 15.9393C0 15.7502 0.0515235 15.5646 0.149233 15.4016L9.06826 0.52305C9.37093 0.0181436 10.0334 -0.150395 10.5479 0.146609C10.7064 0.238046 10.8384 0.367607 10.9316 0.52305Z" transform="matrix(-4.371139E-08 1 -1 -4.371139E-08 17 0)" id="Triangle" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>

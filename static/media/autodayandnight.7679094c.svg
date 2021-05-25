@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="night-mode">
+    <g id="Page-1">
+      <g id="Desktop-HD-Custom-Copy-30">
+        <g id="Group-23">
+          <g id="Group-25">
+            <g id="Group-22">
+              <g id="Group-17">
+                <path d="M10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20Z" id="Oval" fill="#540CFA" fill-rule="evenodd" stroke="none" />
+                <path d="M15.1174 9.77903C14.1035 12.8785 11.1882 15.1174 7.75 15.1174C3.46979 15.1174 0 11.6477 0 7.36745C0 3.92921 2.23896 1.01391 5.33842 0C4.49665 1.15546 4 2.57845 4 4.11745C4 7.98344 7.13401 11.1174 11 11.1174C12.539 11.1174 13.962 10.6208 15.1174 9.77903L15.1174 9.77903Z" transform="translate(2.5 2.5)" id="Icon" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
