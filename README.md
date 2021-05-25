@@ -1,7 +1,7 @@
 # DESIGN TO CODE P7
 ## - UNDER DEVELOPMENT -
 
-# Live Demo:  [Click here](https://ilatdev.github.io/design-to-code-p7/)
+# Live Demo:  [Click here](https://ilatdev.github.io/design-to-code-p8/)
 
 
 #### STACK
